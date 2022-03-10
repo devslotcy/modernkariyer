@@ -1,0 +1,13 @@
+@media (max-width: 600px){
+    .head_logo {
+        width: 190px;
+        height: auto;
+    }
+}
+
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0.75rem !important;
+        padding-left: 0.75rem !important;
+    }
+}
