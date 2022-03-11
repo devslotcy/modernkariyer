@@ -45,7 +45,7 @@
     </nav>
 </head>
 <body>
-tst
+
     <section class="home">
         <div class="container">
             <div class="row home_padding">
@@ -69,6 +69,49 @@ tst
         </div>
     </section>
 
+    <section class="how_it_work">
+        <div class="container">
+            <div class="row">
+                <h2 class="section-title mb-5">How It Work</h2>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="section-box">
+                        <div class="d-flex justify-content-between mb-175">
+                            <img class="box_icon" src="./assets/images/icon-sm1.png">
+                            <h2 class="box_number">01</h2>
+                        </div>
+                        <div class="box_content">
+                            <h2 class="section-title-sm mb-3">Set Your Wallet</h2>
+                            <p class="section-title-descriptipn">Decide which wallet you want to use as your transaction method</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="section-box">
+                        <div class="d-flex justify-content-between mb-175">
+                            <img class="box_icon" src="./assets/images/icon-sm2.png">
+                            <h2 class="box_number">02</h2>
+                        </div>
+                        <div class="box_content">
+                            <h2 class="section-title-sm mb-3">Add Your NTFs</h2>
+                            <p class="section-title-descriptipn">Decide which wallet you want to use as your transaction method</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="section-box">
+                        <div class="d-flex justify-content-between mb-175">
+                            <img class="box_icon" src="./assets/images/icon-sm3.png">
+                            <h2 class="box_number">03</h2>
+                        </div>
+                        <div class="box_content">
+                            <h2 class="section-title-sm mb-3">Buy/Sell your Collection/NTFs</h2>
+                            <p class="section-title-descriptipn">Decide which wallet you want to use as your transaction method</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 

@@ -1,5 +1,6 @@
 /*Google font lato*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Nunito:wght@200;400;500;600;700&display=swap');
+@import "reset.css";
 body{font-family: 'Lato';}
 .head_logo {
     width: 140px;
@@ -43,4 +44,38 @@ body{font-family: 'Lato';}
 .home_paragraf {
     color: #838383;
     width: 70%;
+}
+
+.section-title {
+    color: #0A203F;
+    font-weight: 700;
+    font-size: 32px;
+}
+.section-title-sm {
+    color: #0A203F;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.section-box {
+    background: #F1F4FA;
+    width: 100%;
+    min-height: 213px;
+    height: auto;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+.box_icon {
+    width: 62px;
+    height: auto;
+}
+.box_number {
+    font-size: 52px;
+    font-weight: 800;
+    color: #DBE9F9;
+}
+.mb-175{margin-bottom: 1.75rem !important;}
+.section-title-descriptipn {
+    color: #909192;
 }
