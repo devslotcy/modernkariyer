@@ -79,3 +79,39 @@ body{font-family: 'Lato';}
 .section-title-descriptipn {
     color: #909192;
 }
+
+.bottom96 {
+    margin-bottom: 6rem;
+}
+.explore-more {
+    font-weight: 500;
+    color: #0A203F;
+    text-decoration: none;
+    border-bottom: solid 1px #1480e8;
+    padding-bottom: 16px;
+    border-width: 2px;
+}
+.live_card {
+    background: #fff;
+    width: 100%;
+    min-height: 412px;
+    height: auto;
+    border-radius: 1rem;
+    padding: 1rem;
+    border: solid 1px #d0d0d2;
+}
+.user_icon {
+    width: 28px;
+    height: 28px;
+    margin-right: 12px;
+}
+.user_a {
+    color: #0A203F;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+/*Nft Card*/
+.dropstart .dropdown-toggle::before {
+    display: none;
+}

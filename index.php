@@ -69,7 +69,7 @@
         </div>
     </section>
 
-    <section class="how_it_work">
+    <section class="how_it_work bottom96">
         <div class="container">
             <div class="row">
                 <h2 class="section-title mb-5">How It Work</h2>
@@ -113,6 +113,49 @@
         </div>
     </section>
 
+    <section class="live_auction bottom96">
+        <div class="container">
+            <div class="row">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="section_details mb-4">
+                        <h2 class="section-title mb-2">Live Auction</h2>
+                        <p class="section-title-descriptipn">Lorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                    </div>
+                    <div class="section_href">
+                        <a class="explore-more" href="#">Explore More</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="live_card">
+                        <div class="card_user_content">
+                            <div class="d-flex justify-content-between">
+                                <div class="card_user">
+                                    <div class="d-flex align-items-center">
+                                        <img class="user_icon" src="./assets/images/user1.png">
+                                        <a class="user_a" href="#">JimXVic</a>
+                                    </div>
+                                </div>
+                                <div class="card_menu">
+                                    <div class="btn-group dropstart">
+                                        <button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                            ...
+                                        </button>
+                                        <ul class="dropdown-menu">
+                                           <li>deneme</li>
+                                           <li>deneme</li>
+                                           <li>deneme</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
 
 
 
