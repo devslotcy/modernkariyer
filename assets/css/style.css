@@ -113,5 +113,71 @@ body{font-family: 'Lato';}
 
 /*Nft Card*/
 .dropstart .dropdown-toggle::before {
-    display: none;
+    display: none !important;
+}
+.btn-bg {
+    background: none;
+}
+.btn-bg {
+    background: none;
+    color: #0A203F;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.dot {
+    position: relative;
+    bottom: 12px;
+}
+.btn-bg {
+    background: none;
+    color: #0A203F;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.dropdown-menu {
+    min-width: 7rem !important;
+    padding: 0.5rem !important;
+    border-radius: 1rem !important;
+    border: solid 1px rgba(208, 208, 210, 0.5) !important;
+}
+.card-img-colection {
+    width: 100%;
+    height: auto;
+    min-height: 224px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+.timer-box {
+    width: 120px;
+    height: 42px;
+    background: #E6EFFB;
+    border-radius: 8px;
+    position: relative;
+    bottom: 24px;
+}
+.card-nft-title {
+    color: #0A203F;
+    font-size: 24px;
+    font-weight: 400;
+}
+.nft_price {
+    font-weight: 700;
+    color: #1480E8;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.ml-4 {
+    position: relative;
+    left: 4px;
+}
+.nft-card-btn {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    background: #1480e8;
+    border: none;
+    color: #fff;
 }

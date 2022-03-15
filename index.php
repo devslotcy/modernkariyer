@@ -129,7 +129,8 @@
                 <div class="col-lg-3">
                     <div class="live_card">
                         <div class="card_user_content">
-                            <div class="d-flex justify-content-between">
+
+                            <div class="d-flex justify-content-between mb-3">
                                 <div class="card_user">
                                     <div class="d-flex align-items-center">
                                         <img class="user_icon" src="./assets/images/user1.png">
@@ -138,8 +139,8 @@
                                 </div>
                                 <div class="card_menu">
                                     <div class="btn-group dropstart">
-                                        <button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                                            ...
+                                        <button type="button" class="btn-bg dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                            <span class="dot">...</span>
                                         </button>
                                         <ul class="dropdown-menu">
                                            <li>deneme</li>
@@ -149,6 +150,26 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="d-flex">
+                                <img class="card-img-colection" src="./assets/images/icon1.png">
+                            </div>
+
+                            <div class="timer d-flex justify-content-center">
+                                <div class="timer-box">
+
+                                </div>
+                            </div>
+
+                            <div class="d-grid">
+                                <h2 class="card-nft-title mb-3">Abstract Nature</h2>
+                                <div class="d-flex mb-3">
+                                    <span class="nft_price">5.1</span>
+                                    <span class="nft_price ml-4">eth</span>
+                                </div>
+                                <button type="button" class="nft-card-btn">Place Bid</button>
+                            </div>
+
                         </div>
                     </div>
                 </div>
