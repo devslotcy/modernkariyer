@@ -10,6 +10,11 @@
     <link rel="stylesheet" href="./assets/css/responsive.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<!--    owl carousel-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
@@ -126,53 +131,263 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3">
-                    <div class="live_card">
-                        <div class="card_user_content">
 
-                            <div class="d-flex justify-content-between mb-3">
-                                <div class="card_user">
-                                    <div class="d-flex align-items-center">
-                                        <img class="user_icon" src="./assets/images/user1.png">
-                                        <a class="user_a" href="#">JimXVic</a>
+                <div class="home-demo">
+                    <div class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="live_card">
+                                <div class="card_user_content">
+
+                                    <div class="d-flex justify-content-between mb-3">
+                                        <div class="card_user">
+                                            <div class="d-flex align-items-center">
+                                                <img class="user_icon" src="./assets/images/user1.png">
+                                                <a class="user_a" href="#">JimXVic</a>
+                                            </div>
+                                        </div>
+                                        <div class="card_menu">
+                                            <div class="btn-group dropstart">
+                                                <button type="button" class="btn-bg dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    <span class="dot">...</span>
+                                                </button>
+                                                <ul class="dropdown-menu">
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="card_menu">
-                                    <div class="btn-group dropstart">
-                                        <button type="button" class="btn-bg dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                                            <span class="dot">...</span>
-                                        </button>
-                                        <ul class="dropdown-menu">
-                                           <li>deneme</li>
-                                           <li>deneme</li>
-                                           <li>deneme</li>
-                                        </ul>
+
+                                    <div class="d-flex">
+                                        <img class="card-img-colection" src="./assets/images/icon1.png">
                                     </div>
+
+                                    <div class="timer d-flex justify-content-center">
+                                        <div class="timer-box d-flex justify-content-center align-items-center">
+                                            <div class="d-flex align-items-center">
+                                                <img class="timer-icon me-2" src="./assets/images/timer.svg">
+                                                <span class="me-right1">02</span>
+                                                <span class="me-right1">:</span>
+                                                <span class="me-right1">15</span>
+                                                <span class="me-right1">:</span>
+                                                <span>15</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-grid">
+                                        <h2 class="card-nft-title mb-3">Abstract Nature</h2>
+                                        <div class="d-flex mb-3">
+                                            <span class="nft_price">5.1</span>
+                                            <span class="nft_price ml-4">eth</span>
+                                        </div>
+                                        <button type="button" class="nft-card-btn">Place Bid</button>
+                                    </div>
+
                                 </div>
                             </div>
+                        </div>
+                        <div class="item">
+                            <div class="live_card">
+                                <div class="card_user_content">
 
-                            <div class="d-flex">
-                                <img class="card-img-colection" src="./assets/images/icon1.png">
-                            </div>
+                                    <div class="d-flex justify-content-between mb-3">
+                                        <div class="card_user">
+                                            <div class="d-flex align-items-center">
+                                                <img class="user_icon" src="./assets/images/user1.png">
+                                                <a class="user_a" href="#">JimXVic</a>
+                                            </div>
+                                        </div>
+                                        <div class="card_menu">
+                                            <div class="btn-group dropstart">
+                                                <button type="button" class="btn-bg dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    <span class="dot">...</span>
+                                                </button>
+                                                <ul class="dropdown-menu">
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                            <div class="timer d-flex justify-content-center">
-                                <div class="timer-box">
+                                    <div class="d-flex">
+                                        <img class="card-img-colection" src="./assets/images/icon1.png">
+                                    </div>
+
+                                    <div class="timer d-flex justify-content-center">
+                                        <div class="timer-box d-flex justify-content-center align-items-center">
+                                            <div class="d-flex align-items-center">
+                                                <img class="timer-icon me-2" src="./assets/images/timer.svg">
+                                                <span class="me-right1">02</span>
+                                                <span class="me-right1">:</span>
+                                                <span class="me-right1">15</span>
+                                                <span class="me-right1">:</span>
+                                                <span>15</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-grid">
+                                        <h2 class="card-nft-title mb-3">Abstract Nature</h2>
+                                        <div class="d-flex mb-3">
+                                            <span class="nft_price">5.1</span>
+                                            <span class="nft_price ml-4">eth</span>
+                                        </div>
+                                        <button type="button" class="nft-card-btn">Place Bid</button>
+                                    </div>
 
                                 </div>
                             </div>
+                        </div>
+                        <div class="item">
+                            <div class="live_card">
+                                <div class="card_user_content">
 
-                            <div class="d-grid">
-                                <h2 class="card-nft-title mb-3">Abstract Nature</h2>
-                                <div class="d-flex mb-3">
-                                    <span class="nft_price">5.1</span>
-                                    <span class="nft_price ml-4">eth</span>
+                                    <div class="d-flex justify-content-between mb-3">
+                                        <div class="card_user">
+                                            <div class="d-flex align-items-center">
+                                                <img class="user_icon" src="./assets/images/user1.png">
+                                                <a class="user_a" href="#">JimXVic</a>
+                                            </div>
+                                        </div>
+                                        <div class="card_menu">
+                                            <div class="btn-group dropstart">
+                                                <button type="button" class="btn-bg dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    <span class="dot">...</span>
+                                                </button>
+                                                <ul class="dropdown-menu">
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex">
+                                        <img class="card-img-colection" src="./assets/images/icon1.png">
+                                    </div>
+
+                                    <div class="timer d-flex justify-content-center">
+                                        <div class="timer-box d-flex justify-content-center align-items-center">
+                                            <div class="d-flex align-items-center">
+                                                <img class="timer-icon me-2" src="./assets/images/timer.svg">
+                                                <span class="me-right1">02</span>
+                                                <span class="me-right1">:</span>
+                                                <span class="me-right1">15</span>
+                                                <span class="me-right1">:</span>
+                                                <span>15</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-grid">
+                                        <h2 class="card-nft-title mb-3">Abstract Nature</h2>
+                                        <div class="d-flex mb-3">
+                                            <span class="nft_price">5.1</span>
+                                            <span class="nft_price ml-4">eth</span>
+                                        </div>
+                                        <button type="button" class="nft-card-btn">Place Bid</button>
+                                    </div>
+
                                 </div>
-                                <button type="button" class="nft-card-btn">Place Bid</button>
                             </div>
+                        </div>
+                        <div class="item">
+                            <div class="live_card">
+                                <div class="card_user_content">
 
+                                    <div class="d-flex justify-content-between mb-3">
+                                        <div class="card_user">
+                                            <div class="d-flex align-items-center">
+                                                <img class="user_icon" src="./assets/images/user1.png">
+                                                <a class="user_a" href="#">JimXVic</a>
+                                            </div>
+                                        </div>
+                                        <div class="card_menu">
+                                            <div class="btn-group dropstart">
+                                                <button type="button" class="btn-bg dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    <span class="dot">...</span>
+                                                </button>
+                                                <ul class="dropdown-menu">
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                    <li>deneme</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex">
+                                        <img class="card-img-colection" src="./assets/images/icon1.png">
+                                    </div>
+
+                                    <div class="timer d-flex justify-content-center">
+                                        <div class="timer-box d-flex justify-content-center align-items-center">
+                                            <div class="d-flex align-items-center">
+                                                <img class="timer-icon me-2" src="./assets/images/timer.svg">
+                                                <span class="me-right1">02</span>
+                                                <span class="me-right1">:</span>
+                                                <span class="me-right1">15</span>
+                                                <span class="me-right1">:</span>
+                                                <span>15</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="d-grid">
+                                        <h2 class="card-nft-title mb-3">Abstract Nature</h2>
+                                        <div class="d-flex mb-3">
+                                            <span class="nft_price">5.1</span>
+                                            <span class="nft_price ml-4">eth</span>
+                                        </div>
+                                        <button type="button" class="nft-card-btn">Place Bid</button>
+                                    </div>
+
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+
+
+                <script>
+                    $(function() {
+                        // Owl Carousel
+                        var owl = $(".owl-carousel");
+                        owl.owlCarousel({
+                            items: 4,
+                            margin: 24,
+                            loop: true,
+                            nav: false,
+
+                            responsive:{
+                                0:{
+                                    items:1
+                                },
+                                600:{
+                                    items:2
+                                },
+                                1000:{
+                                    items:4
+                                }
+                            }
+
+                        });
+                    });
+                </script>
+
+
+
+
+
+
+
+
+
 
             </div>
         </div>
@@ -182,3 +397,5 @@
 
 </body>
 </html>
+
+
