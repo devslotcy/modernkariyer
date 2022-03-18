@@ -8,6 +8,7 @@
     <title>Nft Project</title>
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/responsive.css">
+<!--    bootstrap v5-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <!--    owl carousel-->
@@ -132,6 +133,10 @@
                 </div>
 
 
+
+
+
+
                 <div class="home-demo">
                     <div class="owl-carousel owl-theme">
                         <div class="item">
@@ -214,7 +219,7 @@
                                     </div>
 
                                     <div class="d-flex">
-                                        <img class="card-img-colection" src="./assets/images/icon1.png">
+                                        <img class="card-img-colection" src="./assets/images/icon2.png">
                                     </div>
 
                                     <div class="timer d-flex justify-content-center">
@@ -354,31 +359,8 @@
                 </div>
 
 
-                <script>
-                    $(function() {
-                        // Owl Carousel
-                        var owl = $(".owl-carousel");
-                        owl.owlCarousel({
-                            items: 4,
-                            margin: 24,
-                            loop: true,
-                            nav: false,
 
-                            responsive:{
-                                0:{
-                                    items:1
-                                },
-                                600:{
-                                    items:2
-                                },
-                                1000:{
-                                    items:4
-                                }
-                            }
 
-                        });
-                    });
-                </script>
 
 
 
@@ -397,5 +379,31 @@
 
 </body>
 </html>
+
+<script>
+    $(function() {
+        // Owl Carousel
+        var owl = $(".owl-carousel");
+        owl.owlCarousel({
+            loop:true,
+            margin:24,
+            autoplay:true,
+            autoplayTimeout:9000,
+            autoplayHoverPause:true,
+            dots:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:3
+                },
+                1000:{
+                    items:4
+                }
+            }
+        });
+    });
+</script>
 
 
