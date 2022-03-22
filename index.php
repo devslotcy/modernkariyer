@@ -375,6 +375,128 @@
         </div>
     </section>
 
+    <section class="top_artist bottom96">
+        <div class="container">
+            <div class="row">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="section_details mb-4">
+                        <h2 class="section-title mb-2">Top Artist</h2>
+                        <p class="section-title-descriptipn">The hands thats creat many İnteresting NTFs</p>
+                    </div>
+                    <div class="section_href">
+                        <a class="explore-more" href="#">Explore More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-2 col-md-4 col-4">
+                    <div class="top-artist d-grid">
+                        <img class="w-100 mb-3" src="./assets/images/user-lg.png">
+                        <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
+                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4">
+                    <div class="top-artist d-grid">
+                        <img class="w-100 mb-3" src="./assets/images/user-lg.png">
+                        <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
+                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4">
+                    <div class="top-artist d-grid">
+                        <img class="w-100 mb-3" src="./assets/images/user-lg.png">
+                        <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
+                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4">
+                    <div class="top-artist d-grid">
+                        <img class="w-100 mb-3" src="./assets/images/user-lg.png">
+                        <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
+                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4">
+                    <div class="top-artist d-grid">
+                        <img class="w-100 mb-3" src="./assets/images/user-lg.png">
+                        <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
+                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4">
+                    <div class="top-artist d-grid">
+                        <img class="w-100 mb-3" src="./assets/images/user-lg.png">
+                        <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
+                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="explore_by_category bottom96">
+        <div class="container">
+            <div class="row">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="section_details mb-4">
+                        <h2 class="section-title mb-2">Explore by Category</h2>
+                        <p class="section-title-descriptipn">Find your favorite category here</p>
+                    </div>
+                    <div class="section_href">
+                        <a class="explore-more" href="#">Explore More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                    <div class="explore_box p-3">
+                        <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
+                        <h2 class="explore_title">Game Items</h2>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                    <div class="explore_box p-3">
+                        <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
+                        <h2 class="explore_title">Game Items</h2>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                    <div class="explore_box p-3">
+                        <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
+                        <h2 class="explore_title">Game Items</h2>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                    <div class="explore_box p-3">
+                        <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
+                        <h2 class="explore_title">Game Items</h2>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                    <div class="explore_box p-3">
+                        <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
+                        <h2 class="explore_title">Game Items</h2>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                    <div class="explore_box p-3">
+                        <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
+                        <h2 class="explore_title">Game Items</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
 
 
 </body>

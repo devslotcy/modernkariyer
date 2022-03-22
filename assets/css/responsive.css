@@ -5,6 +5,10 @@
     }
 }
 
+@media (max-width: 768px){
+    .ipad-bottom{margin-bottom: 1.5rem!important;}
+}
+
 @media (min-width: 992px){
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 0.75rem !important;
