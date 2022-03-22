@@ -208,6 +208,57 @@ body{font-family: 'Lato';}
     text-align: center;
     font-weight: 500;
 }
-
-
-
+/*popular collections*/
+.popular_card {
+    width: 100%;
+    height: 292px;
+    border: solid 1px #D0D0D2;
+    border-radius: 1rem;
+    padding: 1rem 1rem 0 1rem;
+}
+.popular_card_bg {
+    width: 100%;
+    height: 160px;
+    background: #6bd095;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.popular_card_like {
+    position: absolute;
+    right: .75rem;
+    top: .75rem;
+}
+.popular_card_img {
+    width: auto !important;
+    height: 100px;
+}
+.popular_btn {
+    width: auto;
+    height: auto;
+    background: #1480E8;
+    border-radius: 6px;
+    padding: 8px 6px;
+}
+.fa-solid, .fas {
+    color: #fff;
+    font-size: 14px;
+}
+.like_counter {
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+}
+.popular_user_img {
+    width: 52px !important;
+    height: 52px;
+    border-radius: 8px;
+    border: solid 2px #fff;
+}
+.popular_card_content {
+    position: relative;
+    bottom: 1.62rem;
+}
+.darkblue{color: #0A203F !important;}

@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<!--    font awesome-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
@@ -131,11 +134,6 @@
                         <a class="explore-more" href="#">Explore More</a>
                     </div>
                 </div>
-
-
-
-
-
 
                 <div class="home-demo">
                     <div class="owl-carousel owl-theme">
@@ -358,19 +356,6 @@
                     </div>
                 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
         </div>
     </section>
@@ -486,6 +471,110 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+
+    <section class="popular_collections bottom96">
+        <div class="container">
+            <div class="row">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="section_details mb-4">
+                        <h2 class="section-title mb-2">Popular Collections</h2>
+                        <p class="section-title-descriptipn">Here the popular collections</p>
+                    </div>
+                    <div class="section_href">
+                        <a class="explore-more" href="#">Explore More</a>
+                    </div>
+                </div>
+
+
+
+                <!--Slide-->
+                <div class="home-demo">
+                    <div class="column3 owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="popular_card">
+                                <div class="popular_card_bg">
+                                    <div class="popular_card_like">
+                                        <button class="popular_btn" type="button">
+                                            <div class="d-flex justify-content-center align-items-center">
+                                                <i class="fa-solid fa-heart me-1"></i>
+                                                <span class="like_counter">150</span>
+                                            </div>
+                                        </button>
+                                    </div>
+                                    <img class="popular_card_img" src="./assets/images/popular_icon1.png">
+                                </div>
+                                <div class="popular_card_content">
+                                    <div class="popular_card_user">
+                                        <div class="d-grid">
+                                            <img class="popular_user_img mx-auto mb-3" src="./assets/images/popular_icon_user.png">
+                                            <h2 class="section-title-sm text-center mb-2">Sera Cobalt</h2>
+                                            <p class="section-title-descriptipn text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="popular_card">
+                                <div class="popular_card_bg">
+                                    <div class="popular_card_like">
+                                        <button class="popular_btn" type="button">
+                                            <div class="d-flex justify-content-center align-items-center">
+                                                <i class="fa-solid fa-heart me-1"></i>
+                                                <span class="like_counter">450</span>
+                                            </div>
+                                        </button>
+                                    </div>
+                                    <img class="popular_card_img" src="./assets/images/popular_icon2.png">
+                                </div>
+                                <div class="popular_card_content">
+                                    <div class="popular_card_user">
+                                        <div class="d-grid">
+                                            <img class="popular_user_img mx-auto mb-3" src="./assets/images/popular_icon_user.png">
+                                            <h2 class="section-title-sm text-center mb-2">Sera Cobalt</h2>
+                                            <p class="section-title-descriptipn text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="popular_card">
+                                <div class="popular_card_bg">
+                                    <div class="popular_card_like">
+                                        <button class="popular_btn" type="button">
+                                            <div class="d-flex justify-content-center align-items-center">
+                                                <i class="fa-solid fa-heart me-1"></i>
+                                                <span class="like_counter">250</span>
+                                            </div>
+                                        </button>
+                                    </div>
+                                    <img class="popular_card_img" src="./assets/images/popular_icon3.png">
+                                </div>
+                                <div class="popular_card_content">
+                                    <div class="popular_card_user">
+                                        <div class="d-grid">
+                                            <img class="popular_user_img mx-auto mb-3" src="./assets/images/popular_icon_user.png">
+                                            <h2 class="section-title-sm text-center mb-2">Sera Cobalt</h2>
+                                            <p class="section-title-descriptipn text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+
+
+
         </div>
     </section>
 
