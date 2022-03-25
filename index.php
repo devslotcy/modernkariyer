@@ -474,7 +474,6 @@
         </div>
     </section>
 
-
     <section class="popular_collections bottom96">
         <div class="container">
             <div class="row">
@@ -495,7 +494,7 @@
                     <div class="column3 owl-carousel owl-theme">
                         <div class="item">
                             <div class="popular_card">
-                                <div class="popular_card_bg">
+                                <div class="popular_card_bg green_card">
                                     <div class="popular_card_like">
                                         <button class="popular_btn" type="button">
                                             <div class="d-flex justify-content-center align-items-center">
@@ -519,7 +518,7 @@
                         </div>
                         <div class="item">
                             <div class="popular_card">
-                                <div class="popular_card_bg">
+                                <div class="popular_card_bg purple_card">
                                     <div class="popular_card_like">
                                         <button class="popular_btn" type="button">
                                             <div class="d-flex justify-content-center align-items-center">
@@ -543,7 +542,7 @@
                         </div>
                         <div class="item">
                             <div class="popular_card">
-                                <div class="popular_card_bg">
+                                <div class="popular_card_bg orange_card">
                                     <div class="popular_card_like">
                                         <button class="popular_btn" type="button">
                                             <div class="d-flex justify-content-center align-items-center">
@@ -578,6 +577,31 @@
         </div>
     </section>
 
+    <section class="choose_us bottom96">
+        <div class="container-fluid fluid_bg w-100">
+            <div class="container">
+                <div class="row">
+                    <div class="section_details mb-5">
+                        <h2 class="section-title mb-2">Why You Have to Choose Us?</h2>
+                        <p class="section-title-descriptipn">lorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <div class="d-flex">
+                            <img class="choose_icon mx-auto" src="./assets/images/choose_icon.png">
+                        </div>
+                        <div class="choose_card">
+                            <h2 class="section-title-sm mb-2">High-Quality Atworks</h2>
+                            <p class="section-title-descriptipn">lorem ipsum dolor sit amet consectetur adipiscing elitorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-12">test</div>
+                    <div class="col-lg-4 col-md-4 col-12">test</div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
