@@ -57,20 +57,20 @@
 
     <section class="home">
         <div class="container">
-            <div class="row home_padding">
-                <div class="col-lg-5 col-md-6 col-12">
+            <div class="row home_padding d-flex align-items-center">
+                <div class="col-lg-5 col-md-6 col-12 mobil_bottom">
                     <div class="home-content">
-                        <div class="home-text mb-4">
+                        <div class="home-text mb-20">
                             <h2 class="home_title">A New Way to Appreciate the</h2>
                             <h2 class="home_title soft_blue">Artworks.</h2>
                         </div>
-                        <p class="home_paragraf mb-4">Find the most attractive and rarest NFTs to be your collection</p>
+                        <p class="home_paragraf mb-20">Find the most attractive and rarest NFTs to be your collection</p>
                         <button type="button" class="outer_btn home_btn">Explore</button>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6 col-12">
                     <div class="home-img">
-                        <img class="w-100" src="./assets/images/home.png">
+                        <img class="home_image" src="./assets/images/home.png">
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="section-title mb-5">How It Work</h2>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-4 col-md-4 col-12 mobil_bottom">
                     <div class="section-box">
                         <div class="d-flex justify-content-between mb-175">
                             <img class="box_icon" src="./assets/images/icon-sm1.png">
@@ -94,7 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-4 col-md-4 col-12 mobil_bottom">
                     <div class="section-box">
                         <div class="d-flex justify-content-between mb-175">
                             <img class="box_icon" src="./assets/images/icon-sm2.png">
@@ -106,7 +106,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-4 col-md-4 col-12 mobil_bottom">
                     <div class="section-box">
                         <div class="d-flex justify-content-between mb-175">
                             <img class="box_icon" src="./assets/images/icon-sm3.png">
@@ -125,7 +125,7 @@
     <section class="live_auction bottom6">
         <div class="container">
             <div class="row">
-                <div class="d-flex justify-content-between align-items-center">
+                <div class="df jcb aic">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Live Auction</h2>
                         <p class="section-title-description">Lorem ipsum dolor sit amet consectetur adipiscing elit</p>
@@ -363,7 +363,7 @@
     <section class="top_artist bottom6">
         <div class="container">
             <div class="row">
-                <div class="d-flex justify-content-between align-items-center">
+                <div class="df jcb aic">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Top Artist</h2>
                         <p class="section-title-description">The hands thats creat many İnteresting NTFs</p>
@@ -374,42 +374,42 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-2 col-md-4 col-4">
+                <div class="col-lg-2 col-md-4 col-4 mobil_bottom">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
                         <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4">
+                <div class="col-lg-2 col-md-4 col-4 mobil_bottom">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
                         <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4">
+                <div class="col-lg-2 col-md-4 col-4 mobil_bottom">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
                         <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4">
+                <div class="col-lg-2 col-md-4 col-4 mobil_bottom">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
                         <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4">
+                <div class="col-lg-2 col-md-4 col-4 mobil_bottom">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
                         <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4">
+                <div class="col-lg-2 col-md-4 col-4 mobil_bottom">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
@@ -423,7 +423,7 @@
     <section class="explore_by_category bottom6">
         <div class="container">
             <div class="row">
-                <div class="d-flex justify-content-between align-items-center">
+                <div class="df jcb aic">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Explore by Category</h2>
                         <p class="section-title-description">Find your favorite category here</p>
@@ -434,37 +434,37 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                <div class="col-lg-2 col-md-4 col-6 mobil_bottom">
                     <div class="explore_box p-3">
                         <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
                         <h2 class="explore_title">Game Items</h2>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                <div class="col-lg-2 col-md-4 col-6 mobil_bottom">
                     <div class="explore_box p-3">
                         <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
                         <h2 class="explore_title">Game Items</h2>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                <div class="col-lg-2 col-md-4 col-6 mobil_bottom">
                     <div class="explore_box p-3">
                         <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
                         <h2 class="explore_title">Game Items</h2>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                <div class="col-lg-2 col-md-4 col-6 mobil_bottom">
                     <div class="explore_box p-3">
                         <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
                         <h2 class="explore_title">Game Items</h2>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                <div class="col-lg-2 col-md-4 col-6 mobil_bottom">
                     <div class="explore_box p-3">
                         <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
                         <h2 class="explore_title">Game Items</h2>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-4 col-4 ipad-bottom">
+                <div class="col-lg-2 col-md-4 col-6 mobil_bottom">
                     <div class="explore_box p-3">
                         <img class="explore_icon mx-auto" src="./assets/images/explore_icon.png">
                         <h2 class="explore_title">Game Items</h2>
@@ -477,7 +477,7 @@
     <section class="popular_collections bottom6">
         <div class="container">
             <div class="row">
-                <div class="d-flex justify-content-between align-items-center">
+                <div class="df jcb aic">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Popular Collections</h2>
                         <p class="section-title-description">Here the popular collections</p>
@@ -622,14 +622,14 @@
     <section class="faq bottom6">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-3 col-12">
+                <div class="col-lg-3 col-md-4 col-12 mobil_bottom">
                     <div class="d-grid">
                         <h2 class="section-title mb-2">FAQs</h2>
                         <p class="section-title-description mb-5">What people usually ask</p>
                         <img class="faq_img" src="./assets/images/faq.png" alt="faq">
                     </div>
                 </div>
-                <div class="col-lg-9 col-md-9 col-12">
+                <div class="col-lg-9 col-md-8 col-12">
                     <div class="faq_accordion">
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item mb-2">
@@ -710,7 +710,7 @@
         <div class="container">
             <div class="news_bg">
                 <div class="row d-flex align-items-center">
-                    <div class="col-lg-6 col-md-6 col-12">
+                    <div class="col-lg-6 col-md-6 col-12 mobil_bottom">
                         <h2 class="section-title-md mb-4">Signup for our newsletter to get the latest information in your box</h2>
                         <p class="section-title-description mb-3">No spam message, your email is safe with us</p>
                         <input type="email" class="news_input" placeholder="Type your email here">
@@ -730,13 +730,13 @@
         <div class="footer">
             <div class="container">
                 <div class="row mb-5">
-                    <div class="col-lg-5">
+                    <div class="col-lg-5 col-md-5 col-12">
                         <div class="footer_logo">
                             <img class="footer_img mb-3" src="./assets/images/logo.png">
                             <p class="footer_desc">lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor.</p>
                         </div>
                     </div>
-                    <div class="col-lg-1 column_flex">
+                    <div class="col-lg-1 col-md-2 col-6 column_flex">
                         <div class="footer_content">
                             <h4 class="footer_title">About Us</h4>
                             <div class="footer_list">
@@ -747,7 +747,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-1 column_flex">
+                    <div class="col-lg-1 col-md-2 col-6 column_flex">
                         <div class="footer_content">
                             <h4 class="footer_title">Links</h4>
                             <div class="footer_list">
@@ -758,7 +758,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-2 column_flex">
+                    <div class="col-lg-2 col-md-3 col-6 column_flex">
                         <div class="footer_content">
                             <h4 class="footer_title">Community Links</h4>
                             <div class="footer_list">
@@ -769,9 +769,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 column_flex">
-                        <div class="footer_content">
-                            <h4 class="footer_title">Social Media</h4>
+                    <div class="col-lg-3 col-md-12 col-6 df jcc">
+                        <div class="footer_content mobil_top-3">
+                            <h4 class="footer_title mobil_d-none">Social Media</h4>
                             <div class="footer_social">
                                 <ul>
                                     <li><a target="_blank" href="https://www.instagram.com/"><img class="social_icon" src="./assets/images/instagram.png"></a></li>

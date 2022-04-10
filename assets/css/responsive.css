@@ -1,3 +1,69 @@
+@media only screen and (max-width: 1024px){
+
+}
+
+@media only screen and (max-width: 768px){
+    .home_title {
+        font-size: 24px;
+    }
+    .home_paragraf {
+        width: 90%;
+    }
+    .section-box {
+        padding: 1rem;
+        min-height: 254px;
+    }
+    .section-title-sm, .card-nft-title, .nft_price {
+        font-size: 18px;
+    }
+    .section-title {
+        font-size: 28px;
+    }
+    .df {
+        display: grid;
+    }
+    .section_href {
+        margin-bottom: 2.75rem;
+    }
+    .mobil_bottom {
+        margin-bottom: 1rem;
+    }
+    .bottom12 {
+        margin-bottom: 18rem;
+    }
+    .choose_card {
+        padding: 4.5rem 1rem 1rem 1rem;
+    }
+    .faq_img {
+        width: 100%;
+    }
+    .partners_img {
+        height: 18px;
+        padding: 0 58px 0 0;
+    }
+    .news_bg {
+        padding: 1.625rem 1.75rem;
+    }
+    .section-title-md {
+        font-size: 24px;
+        width: 100%;
+    }
+    .news_img {
+        width: 100%;
+    }
+    .news_input {
+        width: 100%;
+        padding: 1rem;
+    }
+    .mobil_d-none{
+        display: none;
+    }
+    .mobil_top-3 {
+        margin-top: 3rem!important;
+    }
+}
+
+
 @media only screen and (max-width: 600px) {
     .head_logo {
         width: 190px;
@@ -9,11 +75,31 @@
     .home_paragraf {
         width: 85%;
     }
-
-}
-
-@media (max-width: 768px){
-    .ipad-bottom{margin-bottom: 1.5rem!important;}
+    .section-title-sm, .card-nft-title, .nft_price {
+        font-size: 24px;
+    }
+    .section-title-sm {
+        font-size: 16px;
+    }
+    .bottom12 {
+        margin-bottom: 58rem;
+    }
+    .faq_img {
+        width: 50%;
+    }
+    .partners_img {
+        height: 4vw;
+        padding: 0 20px 0 0;
+    }
+    .news_bg {
+        padding: 1.25rem;
+    }
+    .column_flex {
+        justify-content: start;
+    }
+    .mobil_d-none {
+        display: block;
+    }
 }
 
 @media (min-width: 992px){

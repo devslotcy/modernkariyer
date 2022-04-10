@@ -2,6 +2,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Nunito:wght@200;400;500;600;700&display=swap');
 @import "reset.css";
 body{font-family: 'Lato';}
+
+
+.df {display: flex;}
+.jcb {justify-content: space-between;}
+.jcc {justify-content: center;}
+.aic {align-items: center;}
+
+
+
+input::placeholder {
+    color: #5d6b7e;
+    font-size: 14px;
+}
+
 .head_logo {
     width: 140px;
     height: auto;
@@ -149,7 +163,7 @@ body{font-family: 'Lato';}
 .dropdown-menu {
     min-width: 7rem !important;
     padding: 0.5rem !important;
-    border-radius: 1rem !important;
+    border-radius: .5rem !important;
     border: solid 1px rgba(208, 208, 210, 0.5) !important;
 }
 .card-img-colection {
@@ -421,4 +435,10 @@ body{font-family: 'Lato';}
 }
 .navbar-toggler:focus {
     box-shadow: none !important;
+}
+.home_image {
+    width: 100%;
+}
+.mb-20 {
+    margin-bottom: 2rem!important;
 }
