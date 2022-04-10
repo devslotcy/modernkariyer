@@ -78,7 +78,7 @@
         </div>
     </section>
 
-    <section class="how_it_work bottom96">
+    <section class="how_it_work bottom6">
         <div class="container">
             <div class="row">
                 <h2 class="section-title mb-5">How It Work</h2>
@@ -90,7 +90,7 @@
                         </div>
                         <div class="box_content">
                             <h2 class="section-title-sm mb-3">Set Your Wallet</h2>
-                            <p class="section-title-descriptipn">Decide which wallet you want to use as your transaction method</p>
+                            <p class="section-title-description">Decide which wallet you want to use as your transaction method</p>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                         </div>
                         <div class="box_content">
                             <h2 class="section-title-sm mb-3">Add Your NTFs</h2>
-                            <p class="section-title-descriptipn">Decide which wallet you want to use as your transaction method</p>
+                            <p class="section-title-description">Decide which wallet you want to use as your transaction method</p>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                         </div>
                         <div class="box_content">
                             <h2 class="section-title-sm mb-3">Buy/Sell your Collection/NTFs</h2>
-                            <p class="section-title-descriptipn">Decide which wallet you want to use as your transaction method</p>
+                            <p class="section-title-description">Decide which wallet you want to use as your transaction method</p>
                         </div>
                     </div>
                 </div>
@@ -122,13 +122,13 @@
         </div>
     </section>
 
-    <section class="live_auction bottom96">
+    <section class="live_auction bottom6">
         <div class="container">
             <div class="row">
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Live Auction</h2>
-                        <p class="section-title-descriptipn">Lorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                        <p class="section-title-description">Lorem ipsum dolor sit amet consectetur adipiscing elit</p>
                     </div>
                     <div class="section_href">
                         <a class="explore-more" href="#">Explore More</a>
@@ -360,13 +360,13 @@
         </div>
     </section>
 
-    <section class="top_artist bottom96">
+    <section class="top_artist bottom6">
         <div class="container">
             <div class="row">
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Top Artist</h2>
-                        <p class="section-title-descriptipn">The hands thats creat many İnteresting NTFs</p>
+                        <p class="section-title-description">The hands thats creat many İnteresting NTFs</p>
                     </div>
                     <div class="section_href">
                         <a class="explore-more" href="#">Explore More</a>
@@ -378,55 +378,55 @@
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
-                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                        <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-4">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
-                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                        <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-4">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
-                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                        <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-4">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
-                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                        <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-4">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
-                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                        <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-4">
                     <div class="top-artist d-grid">
                         <img class="w-100 mb-3" src="./assets/images/user-lg.png">
                         <h2 class="section-title-sm mb-2">Sera Cobalt</h2>
-                        <p class="section-title-descriptipn">250.8 <span class="uppercase">Eth</span></p>
+                        <p class="section-title-description">250.8 <span class="uppercase">Eth</span></p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="explore_by_category bottom96">
+    <section class="explore_by_category bottom6">
         <div class="container">
             <div class="row">
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Explore by Category</h2>
-                        <p class="section-title-descriptipn">Find your favorite category here</p>
+                        <p class="section-title-description">Find your favorite category here</p>
                     </div>
                     <div class="section_href">
                         <a class="explore-more" href="#">Explore More</a>
@@ -474,13 +474,13 @@
         </div>
     </section>
 
-    <section class="popular_collections bottom96">
+    <section class="popular_collections bottom6">
         <div class="container">
             <div class="row">
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Popular Collections</h2>
-                        <p class="section-title-descriptipn">Here the popular collections</p>
+                        <p class="section-title-description">Here the popular collections</p>
                     </div>
                     <div class="section_href">
                         <a class="explore-more" href="#">Explore More</a>
@@ -510,7 +510,7 @@
                                         <div class="d-grid">
                                             <img class="popular_user_img mx-auto mb-3" src="./assets/images/popular_icon_user.png">
                                             <h2 class="section-title-sm text-center mb-2">Sera Cobalt</h2>
-                                            <p class="section-title-descriptipn text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
+                                            <p class="section-title-description text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -534,7 +534,7 @@
                                         <div class="d-grid">
                                             <img class="popular_user_img mx-auto mb-3" src="./assets/images/popular_icon_user.png">
                                             <h2 class="section-title-sm text-center mb-2">Sera Cobalt</h2>
-                                            <p class="section-title-descriptipn text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
+                                            <p class="section-title-description text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -558,7 +558,7 @@
                                         <div class="d-grid">
                                             <img class="popular_user_img mx-auto mb-3" src="./assets/images/popular_icon_user.png">
                                             <h2 class="section-title-sm text-center mb-2">Sera Cobalt</h2>
-                                            <p class="section-title-descriptipn text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
+                                            <p class="section-title-description text-center">Created By <span class="darkblue">Sera Cobalt</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -577,13 +577,13 @@
         </div>
     </section>
 
-    <section class="choose_us bottom96">
+    <section class="choose_us bottom12">
         <div class="container-fluid fluid_bg w-100">
             <div class="container">
                 <div class="row">
-                    <div class="section_details mb-5">
+                    <div class="section_details mb-4">
                         <h2 class="section-title mb-2">Why You Have to Choose Us?</h2>
-                        <p class="section-title-descriptipn">lorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                        <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elit</p>
                     </div>
                 </div>
                 <div class="row">
@@ -593,17 +593,205 @@
                         </div>
                         <div class="choose_card">
                             <h2 class="section-title-sm mb-2">High-Quality Atworks</h2>
-                            <p class="section-title-descriptipn">lorem ipsum dolor sit amet consectetur adipiscing elitorem ipsum dolor sit amet consectetur adipiscing elit</p>
+                            <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elitorem ipsumrem ipsum dolor sit amet consectetur adipiscing</p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-12">test</div>
-                    <div class="col-lg-4 col-md-4 col-12">test</div>
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <div class="d-flex">
+                            <img class="choose_icon mx-auto" src="./assets/images/choose_icon.png">
+                        </div>
+                        <div class="choose_card">
+                            <h2 class="section-title-sm mb-2">High-Quality Atworks</h2>
+                            <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elitorem ipsumrem ipsum dolor sit amet consectetur adipiscing</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-12">
+                        <div class="d-flex">
+                            <img class="choose_icon mx-auto" src="./assets/images/choose_icon.png">
+                        </div>
+                        <div class="choose_card">
+                            <h2 class="section-title-sm mb-2">High-Quality Atworks</h2>
+                            <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elitorem ipsumrem ipsum dolor sit amet consectetur adipiscing</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
+    <section class="faq bottom6">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-12">
+                    <div class="d-grid">
+                        <h2 class="section-title mb-2">FAQs</h2>
+                        <p class="section-title-description mb-5">What people usually ask</p>
+                        <img class="faq_img" src="./assets/images/faq.png" alt="faq">
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9 col-12">
+                    <div class="faq_accordion">
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item mb-2">
+                                <h2 class="accordion-header" id="headingOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Question 1
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item mb-2">
+                                <h2 class="accordion-header" id="headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Question 2
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item mb-2">
+                                <h2 class="accordion-header" id="headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Question 3
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item mb-2">
+                                <h2 class="accordion-header" id="headingFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Question 4
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p class="section-title-description">lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit lorem ipsum dolor sit amet consectetur adipiscing elit </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section class="partners bottom6">
+        <div class="container">
+            <div class="row">
+                <h2 class="section-title mb-5">Investors & Partners</h2>
+                <div class="partners_logo p-0">
+                    <ul>
+                        <li><img class="partners_img" src="./assets/images/partners1.png"></li>
+                        <li><img class="partners_img" src="./assets/images/partners2.png"></li>
+                        <li><img class="partners_img" src="./assets/images/partners3.png"></li>
+                        <li><img class="partners_img" src="./assets/images/partners4.png"></li>
+                        <li><img class="partners_img" src="./assets/images/partners5.png"></li>
+                        <li><img class="partners_img" src="./assets/images/partners6.png"></li>
+                        <li><img class="partners_img" src="./assets/images/partners7.png"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="news bottom6">
+        <div class="container">
+            <div class="news_bg">
+                <div class="row d-flex align-items-center">
+                    <div class="col-lg-6 col-md-6 col-12">
+                        <h2 class="section-title-md mb-4">Signup for our newsletter to get the latest information in your box</h2>
+                        <p class="section-title-description mb-3">No spam message, your email is safe with us</p>
+                        <input type="email" class="news_input" placeholder="Type your email here">
+                        <button class="send_btn" type="button">Subscribe</button>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-12">
+                        <div class="news_content">
+                            <img class="news_img" src="./assets/images/news_paper.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="footer_area">
+        <div class="footer">
+            <div class="container">
+                <div class="row mb-5">
+                    <div class="col-lg-5">
+                        <div class="footer_logo">
+                            <img class="footer_img mb-3" src="./assets/images/logo.png">
+                            <p class="footer_desc">lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-1 column_flex">
+                        <div class="footer_content">
+                            <h4 class="footer_title">About Us</h4>
+                            <div class="footer_list">
+                                <ul>
+                                    <li><a href="#">About</a></li>
+                                    <li><a href="#">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-1 column_flex">
+                        <div class="footer_content">
+                            <h4 class="footer_title">Links</h4>
+                            <div class="footer_list">
+                                <ul>
+                                    <li><a href="#">Blog</a></li>
+                                    <li><a href="#">Help Center</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 column_flex">
+                        <div class="footer_content">
+                            <h4 class="footer_title">Community Links</h4>
+                            <div class="footer_list">
+                                <ul>
+                                    <li><a href="#">Discord</a></li>
+                                    <li><a href="#">Community</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 column_flex">
+                        <div class="footer_content">
+                            <h4 class="footer_title">Social Media</h4>
+                            <div class="footer_social">
+                                <ul>
+                                    <li><a target="_blank" href="https://www.instagram.com/"><img class="social_icon" src="./assets/images/instagram.png"></a></li>
+                                    <li><a target="_blank" href="https://twitter.com/"><img class="social_icon" src="./assets/images/twitter.png"></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/"><img class="social_icon" src="./assets/images/facebook.png"></a></li>
+                                    <li><a target="_blank" href="https://web.telegram.org/"><img class="social_icon" src="./assets/images/telegram.png"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="footer_line"></div>
+                        <p class="copyright text-center">Copyright © 2021 Tronix.All Right Reserved.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
