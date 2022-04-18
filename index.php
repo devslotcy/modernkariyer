@@ -730,13 +730,13 @@
         <div class="footer">
             <div class="container">
                 <div class="row mb-5">
-                    <div class="col-lg-5 col-md-5 col-12">
+                    <div class="col-lg-5 col-md-5 col-12 mb_bottom">
                         <div class="footer_logo">
                             <img class="footer_img mb-3" src="./assets/images/logo.png">
                             <p class="footer_desc">lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor.</p>
                         </div>
                     </div>
-                    <div class="col-lg-1 col-md-2 col-6 column_flex">
+                    <div class="col-lg-1 col-md-2 col-6 mb_bottom column_flex">
                         <div class="footer_content">
                             <h4 class="footer_title">About Us</h4>
                             <div class="footer_list">
@@ -747,7 +747,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-1 col-md-2 col-6 column_flex">
+                    <div class="col-lg-1 col-md-2 col-6 mb_bottom column_flex">
                         <div class="footer_content">
                             <h4 class="footer_title">Links</h4>
                             <div class="footer_list">
@@ -758,7 +758,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-3 col-6 column_flex">
+                    <div class="col-lg-2 col-md-3 col-6 mb_bottom column_flex">
                         <div class="footer_content">
                             <h4 class="footer_title">Community Links</h4>
                             <div class="footer_list">
@@ -769,7 +769,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-12 col-6 df jcc">
+                    <div class="col-lg-3 col-md-12 col-6 mb_bottom df jcc">
                         <div class="footer_content mobil_top-3">
                             <h4 class="footer_title mobil_d-none">Social Media</h4>
                             <div class="footer_social">

@@ -442,3 +442,6 @@ input::placeholder {
 .mb-20 {
     margin-bottom: 2rem!important;
 }
+.partners > * {
+    padding-left: 12px !important;
+}

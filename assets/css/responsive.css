@@ -59,7 +59,10 @@
         display: none;
     }
     .mobil_top-3 {
-        margin-top: 3rem!important;
+        margin-top: 3rem;
+    }
+    .partners > * {
+        padding-left: 28px !important;
     }
 }
 
@@ -82,7 +85,7 @@
         font-size: 16px;
     }
     .bottom12 {
-        margin-bottom: 58rem;
+        margin-bottom: 6rem;
     }
     .faq_img {
         width: 50%;
@@ -99,6 +102,28 @@
     }
     .mobil_d-none {
         display: block;
+    }
+    .fluid_bg {
+        height: auto;
+        padding: 1.5rem 0;
+    }
+    .news_img {
+        padding: 1.25rem;
+    }
+    .mobil_top-3 {
+        margin-top: 0 !important;
+    }
+    .mb_bottom{margin-bottom: 2rem;}
+    .footer_title {font-size: 16px;}
+    .footer_title {
+        margin-bottom: 12px !important;
+    }
+    .footer_social > ul > li {
+        padding: 0 1.25vw 0 0;
+    }
+    .social_icon {
+        width: 8vw;
+        height: 8vw;
     }
 }
 
