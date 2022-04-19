@@ -2,7 +2,7 @@
 
 }
 
-
+/*IPad lanscape modu*/
 @media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     .home_title {
         font-size: 48px;
@@ -28,6 +28,7 @@
     }
 }
 
+/*IPad dikey modu*/
 @media only screen and (max-width: 768px){
     .home_title {
         font-size: 36px;
@@ -92,6 +93,7 @@
     }
 }
 
+/*Mobil Yatay modu*/
 @media screen and (min-width: 320px) and (max-width: 896px) and (orientation: landscape){
     .home_padding {
         padding: 2rem 0;
@@ -128,14 +130,18 @@
     .mb_bottom {
         margin-bottom: 2rem;
     }
-}
-
-@media screen and (min-width: 480px) and (max-width: 896px) and (orientation: landscape){
-    .mobil_d-none {
-        display: none !important;
+    .mobil_top-3 {
+        margin-top: 0;
     }
 }
 
+/*Mobil Yatay modlar arası aralıklar*/
+@media screen and (min-width: 480px) and (max-width: 896px) and (orientation: landscape){
+    .mobil_d-none {
+        display: block !important;
+    }
+}
+/*Mobil dikey modu*/
 @media only screen and (max-width: 600px) {
     .head_logo {
         width: 190px;
