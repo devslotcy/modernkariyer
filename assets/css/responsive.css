@@ -2,9 +2,35 @@
 
 }
 
+
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .home_title {
+        font-size: 48px;
+    }
+    .section-box {
+        min-height: 244px;
+        padding: 1rem;
+    }
+    .bottom12 {
+        margin-bottom: 16rem;
+    }
+    .partners_img {
+        padding: 0 48px 0 0;
+    }
+    .news_bg {
+        padding: 2.5rem;
+    }
+    .footer_title {
+        font-size: 16px;
+    }
+    .footer_social > ul > li {
+        padding: 0 8px 0 0;
+    }
+}
+
 @media only screen and (max-width: 768px){
     .home_title {
-        font-size: 24px;
+        font-size: 36px;
     }
     .home_paragraf {
         width: 90%;
@@ -66,6 +92,49 @@
     }
 }
 
+@media screen and (min-width: 320px) and (max-width: 896px) and (orientation: landscape){
+    .home_padding {
+        padding: 2rem 0;
+    }
+    .section-box {
+        min-height: 196px;
+    }
+    .popular_card {
+        padding: 1rem 1rem 0 1rem !important;
+        min-height: 312px;
+    }
+    .fluid_bg {
+        height: auto;
+        padding: 2.25rem 0;
+    }
+    .bottom12 {
+        margin-bottom: 8rem;
+    }
+    .faq_img {
+        width: 50%;
+    }
+    .partners_img {
+        padding: 0 1.5vw 0 0;
+    }
+    .news_img {
+        padding: 3.25rem;
+    }
+    .choose_card {
+        min-height: 176px;
+    }
+    .column_flex {
+        justify-content: start;
+    }
+    .mb_bottom {
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 896px) and (orientation: landscape){
+    .mobil_d-none {
+        display: none !important;
+    }
+}
 
 @media only screen and (max-width: 600px) {
     .head_logo {
